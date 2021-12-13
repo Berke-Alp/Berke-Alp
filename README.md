@@ -1,1 +1,1 @@
-![Spotify](https://berkealp.net/spotify-badge.php?badge=1)
+![Spotify](https://berkealp.net/spotify-badge.php)
