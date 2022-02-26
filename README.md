@@ -3,19 +3,19 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/berke-alp/" target="blank">
+  <a href="https://www.linkedin.com/in/berke-alp/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/berke-alp/" title="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/berkealp" target="blank">
+  <a href="https://www.hackerrank.com/berkealp" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/berkealp" title="Hackerrank" height="30" width="40" />
   </a>
-  <a href="https://discordapp.com/users/335119989893890049" target="blank">
+  <a href="https://discordapp.com/users/335119989893890049" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Beşinci Faz#8192" title="Discord" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/berkealpcaliskan" target="blank">
+  <a href="https://www.instagram.com/berkealpcaliskan" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@berkealpcaliskan" title="Instagram" height="30" width="40" />
   </a>
-  <a href="https://open.spotify.com/user/21tpr2ay3xpqaypo6de5nmp6q" target="blank">
+  <a href="https://open.spotify.com/user/21tpr2ay3xpqaypo6de5nmp6q" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="https://open.spotify.com/user/21tpr2ay3xpqaypo6de5nmp6q" title="Spotify" height="30" width="40" />
   </a>
 </p>
